@@ -2839,11 +2839,11 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #eaeaea;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #fff;
 		overflow: hidden;
-		padding: 41em 0 2em 0;
+		padding: 0.5em 0 0.5rem 0;
 	}
 
 		#footer .copyright {
@@ -2853,7 +2853,7 @@ input, select, textarea {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px #d4d4d4;
+				border-left: solid 1px #fff;
 				display: inline-block;
 				font-size: 0.8em;
 				margin-left: 1em;
@@ -3221,7 +3221,7 @@ input, select, textarea {
 				#footer .copyright li {
 					border-left: 0;
 					display: block;
-					line-height: 1.75em;
+					line-height: 1.em;
 					margin: 0.75em 0 0 0;
 					padding-left: 0;
 				}
